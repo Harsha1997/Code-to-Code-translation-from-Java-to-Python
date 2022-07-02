@@ -60,7 +60,6 @@ Download the [Pre-trained checkpoints](https://console.cloud.google.com/storage/
 cd your-cloned-codet5-path
 
 gsutil -m cp -r "gs://sfr-codet5-data-research/pretrained_models" .
-
 ```
 
 Create a folder named "pretrained_models" inside the CodeT5 folder and then place the above-downloaded models in it. 
